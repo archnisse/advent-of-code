@@ -1,0 +1,3 @@
+C:/Users/Nisse/CLionProjects/advent-of-code/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/Nisse/CLionProjects/advent-of-code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Nisse/CLionProjects/advent-of-code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
